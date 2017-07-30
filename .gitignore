@@ -1,0 +1,6 @@
+config/*
+!config/default.*
+.vscode
+npm-debug.log
+node_modules
+coverage
